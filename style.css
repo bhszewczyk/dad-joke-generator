@@ -38,12 +38,12 @@ h1 {
 	justify-content: center;
 }
 
-.joke {
+#joke {
 	font-size: 2.2rem;
 	font-weight: 400;
 }
 
-.btn {
+.btn-joke {
 	display: inline-block;
 	align-self: center;
 	border: none;
